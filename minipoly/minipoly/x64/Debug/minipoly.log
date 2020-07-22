@@ -1,0 +1,29 @@
+﻿  Board.cpp
+C:\Users\chris_000\Documents\cplusplusVS\minipoly\minipoly\Player.h(10,14): error C2065: 'Tiles': undeclared identifier
+C:\Users\chris_000\Documents\cplusplusVS\minipoly\minipoly\Player.h(10,7): error C2923: 'std::vector': 'Tiles' is not a valid template type argument for parameter '_Ty'
+C:\Users\chris_000\Documents\cplusplusVS\minipoly\minipoly\Player.h(10,7): error C2976: 'std::vector': too few template arguments
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801\include\vector(412): message : see declaration of 'std::vector'
+C:\Users\chris_000\Documents\cplusplusVS\minipoly\minipoly\Player.h(17,14): error C2065: 'Tiles': undeclared identifier
+C:\Users\chris_000\Documents\cplusplusVS\minipoly\minipoly\Player.h(17,7): error C2923: 'std::vector': 'Tiles' is not a valid template type argument for parameter '_Ty'
+C:\Users\chris_000\Documents\cplusplusVS\minipoly\minipoly\Player.h(17,7): error C2976: 'std::vector': too few template arguments
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801\include\vector(412): message : see declaration of 'std::vector'
+C:\Users\chris_000\Documents\cplusplusVS\minipoly\minipoly\Player.h(19,25): error C2061: syntax error: identifier 'Tiles'
+  Player.cpp
+C:\Users\chris_000\Documents\cplusplusVS\minipoly\minipoly\Tiles.h(9,8): error C2143: syntax error: missing ';' before '*'
+C:\Users\chris_000\Documents\cplusplusVS\minipoly\minipoly\Tiles.h(9,8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\chris_000\Documents\cplusplusVS\minipoly\minipoly\Tiles.h(9,15): error C2238: unexpected token(s) preceding ';'
+C:\Users\chris_000\Documents\cplusplusVS\minipoly\minipoly\Tiles.h(17,8): error C2143: syntax error: missing ';' before '*'
+C:\Users\chris_000\Documents\cplusplusVS\minipoly\minipoly\Tiles.h(17,8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\chris_000\Documents\cplusplusVS\minipoly\minipoly\Tiles.h(17,20): error C2238: unexpected token(s) preceding ';'
+C:\Users\chris_000\Documents\cplusplusVS\minipoly\minipoly\Tiles.h(18,22): error C2061: syntax error: identifier 'Player'
+  Tiles.cpp
+C:\Users\chris_000\Documents\cplusplusVS\minipoly\minipoly\Player.h(10,14): error C2065: 'Tiles': undeclared identifier
+C:\Users\chris_000\Documents\cplusplusVS\minipoly\minipoly\Player.h(10,7): error C2923: 'std::vector': 'Tiles' is not a valid template type argument for parameter '_Ty'
+C:\Users\chris_000\Documents\cplusplusVS\minipoly\minipoly\Player.h(10,7): error C2976: 'std::vector': too few template arguments
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801\include\vector(412): message : see declaration of 'std::vector'
+C:\Users\chris_000\Documents\cplusplusVS\minipoly\minipoly\Player.h(17,14): error C2065: 'Tiles': undeclared identifier
+C:\Users\chris_000\Documents\cplusplusVS\minipoly\minipoly\Player.h(17,7): error C2923: 'std::vector': 'Tiles' is not a valid template type argument for parameter '_Ty'
+C:\Users\chris_000\Documents\cplusplusVS\minipoly\minipoly\Player.h(17,7): error C2976: 'std::vector': too few template arguments
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801\include\vector(412): message : see declaration of 'std::vector'
+C:\Users\chris_000\Documents\cplusplusVS\minipoly\minipoly\Player.h(19,25): error C2061: syntax error: identifier 'Tiles'
+  Generating Code...
