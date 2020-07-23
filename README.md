@@ -6,7 +6,7 @@ by having different classes not know their implementations.
 
 This current version has models implemented however due to erros it is still a work in progress.
 
-#next implementations:
+## next implementations:
 * Fix Model errors
 * Model Optimization
 * Controller Functions: Positioning and Buying.
